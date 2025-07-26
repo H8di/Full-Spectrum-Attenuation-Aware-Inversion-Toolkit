@@ -28,7 +28,6 @@ The following files are included in this public repository to demonstrate code q
 | `tau_calc.m` | MATLAB function for Compute stress relaxation time  based on rock physics parameters. See full documentation for usage. |
 | `Voigt_Reuss.m` | Calculates effective properties using Voigt and Reuss bounds. |
 
-
 ## 📂 Module Descriptions
 
 | File | Description |
@@ -65,6 +64,9 @@ The following files are included in this public repository to demonstrate code q
 | `t_matrix.m` | Computes the T-matrix for elastic wave scattering and effective property estimation in media with inclusions. |
 | `t_matrix_perm.m` | T-matrix variant for permittivity or permeability effects. |
 | `tau_calc.m` | MATLAB function for Compute stress relaxation time  based on rock physics parameters. See full documentation for usage. |
+
+## 📊 **Figures Folder:**  
+The `graphs/`(./graphs) directory contains visual outputs illustrating the impact of various effective medium parameters on seismic wave velocity and attenuation across different frequency ranges. These plots reflect frequency-dependent behaviors modeled using the provided inversion and rock physics tools.
 
 ## 🔒 Full Codebase Access (Private Repository)
 
