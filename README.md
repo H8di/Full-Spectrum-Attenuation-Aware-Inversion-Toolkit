@@ -66,7 +66,7 @@ The following files are included in this public repository to demonstrate code q
 | `tau_calc.m` | MATLAB function for Compute stress relaxation time  based on rock physics parameters. See full documentation for usage. |
 
 ## 📊 **Figures Folder:**  
-The ./graphs directory contains visual outputs illustrating the impact of various effective medium parameters on seismic wave velocity and attenuation across different frequency ranges. These plots reflect frequency-dependent behaviors modeled using the provided inversion and rock physics tools.
+The [`graphs/`](./graphs) directory contains visual outputs illustrating the impact of various effective medium parameters on seismic wave velocity and attenuation across different frequency ranges. These plots reflect frequency-dependent behaviors modeled using the provided inversion and rock physics tools.
 
 ## 🔒 Full Codebase Access (Private Repository)
 
